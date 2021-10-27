@@ -1,6 +1,4 @@
-## Quickstart 
-
-1 . npm install
+ 1 . npm install
 
 2 . set your google place api key in .env file.
  
